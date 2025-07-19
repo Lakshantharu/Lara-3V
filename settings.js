@@ -8,8 +8,8 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "3MJT2BIT#ke0Z0LsWKlH2wKZ-mrlIvNDVazSbmZ0DGf01c17tJt4", // Add your session id
 PREFIX: process.env.PREFIX || ".",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
-OWNER_NUMBER: process.env.OWNER_NUMBER || "+94 75 959 2060",
-DEV: process.env.DEV || "+94 75 959 2060",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+94759592060",
+DEV: process.env.DEV || "+94759592060",
 LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
